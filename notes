@@ -10,4 +10,4 @@ truc malaisien de mesures des pluie ou truc du genre..
 
 upload de firmware éclaté (/remoteControl/remoteControl/firmware.php), suffit de mettre un php dans un zip et le form est content il décompresse les fichiers dans /var/www/remoteControl/upload/
 
-du coup bon webshell as www-data..
+du coup bon webshell as www-data.. rootable avec polkit
